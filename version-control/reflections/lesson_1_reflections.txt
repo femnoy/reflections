@@ -1,0 +1,10 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+What are the pedagogical and physiological foundations of reflection for learning? Why is reflection important for learning? What does the literature say about how reflection supports learning?
+
+Learning/Process Portfolios involve the focus on Plato’s directive, “know thyself” which can lead to a lifetime of investigation. Self-knowledge becomes an outcome of learning. John Zubizaretta (2004, 2009), in his insightful books on Learning Portfolios in higher education, describes the primary motive of a learning portfolio: “to improve student learning by providing a structure for students to reflect systematically over time on the learning process and to develop the aptitudes, skills and habits that come from critical reflection.” (2004, p.15)
+
+The major theoretical roots of reflection can be found in John Dewey, Jürgen Habermas, David Kolb, and Donald Schön. John Dewey has stated, “We do not learn from experience…we learn from reflecting on experience.” The Learning Cycle, developed by David Kolb, based Dewey, Piaget, and Lewin, is based on the belief that deep learning (learning for real comprehension) comes from a sequence of experience, reflection, abstraction, and active testing. James Zull's (2002) fascinating book on the biology of learning, points out evidence that the learning cycle arises naturally from the structure of the brain (p.19).
