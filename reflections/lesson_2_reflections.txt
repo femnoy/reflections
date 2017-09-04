@@ -1,0 +1,5 @@
+When i encountered error: src refspec master does not match any as i tried to push to my repository on Github, i run the following command:
+
+git commit -m "initial commit"
+
+and observed that my git bash prompt which was master + changed to master.
